@@ -1,5 +1,8 @@
-Cara Install dan run
+# Article App #
 
+Simple Crud Article dengan framework Codeigniter.
+
+### Cara Install dan run ###
 - copy file dan folder ke direktory server anda (htdocc/www)
 - setting config base_url pada aplication/config/config.php sesuaikan dengan url project anda
 - create database 
